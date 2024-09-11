@@ -175,8 +175,8 @@ from sqlalchemy import create_engine
 #conn = engine.connect()
 
 # Replace 'dialect+driver://username:password@host:port/database' with your actual connection details
-username = 'root'
-password = '86SImetal'
+username = '********'
+password = '********'
 host = 'localhost'  # or your specific host
 port = '3306'  # default port for MySQL, change if needed
 database = 'E2EDAProject'
